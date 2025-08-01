@@ -6,7 +6,6 @@
 #include <sstream>
 #include <unordered_map>
 #include <Windows.h>
-#define bonfire
 
 
 DWORD	vehUpdateTime;
